@@ -28,11 +28,11 @@ leftBoundary=createSprite(35,0,20,800);
 // leftBoundary.invisible = false;
 // leftBoundary.visible = true;
 // leftBoundary.invisible = true;
- leftBoundary.visible = true;
+ leftBoundary.visible = false;
 
 
 rightBoundary=createSprite(370,0,20,800);
-rightBoundary.visible = true;
+rightBoundary.visible = false;
 }
 
 function draw() {
